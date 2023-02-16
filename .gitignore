@@ -2,3 +2,6 @@ obj/
 bin/
 .vs/
 packages/
+Debug/
+Release/
+*.componentinfo.xml
